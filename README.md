@@ -2,5 +2,5 @@
 
 # 
 
-# !\[Kết quả Can't Unsee](resource/images/baitapchuong1.png)
+# !\[Kết quả Can't Unsee]<img src="resource/images/baitapchuong1.png" width="100%" alt="Kết quả bài tập">
 
