@@ -11,14 +11,14 @@
 # <img src="resource/images/baitapchuong2.png" width="100%" alt="Bài Tập Chương 2">
 
 ### 3. Bài tập Chapter 3 
-# <img src="resource/images/Screenshot 2026-01-26 095901.png" width="100%" alt="Bài Tập Chương 2">
-# <img src="resource/images/Screenshot 2026-01-26 095945.png" width="100%" alt="Bài Tập Chương 2">
+# <img src="resource/images/Screenshot 2026-01-26 095901.png" width="100%" alt="Bài Tập Chương 3">
+# <img src="resource/images/Screenshot 2026-01-26 095945.png" width="100%" alt="Bài Tập Chương 3">
 ---
 ### 4. Bài Tập Chương 4
-# <img src="resource/images/Screenshot 2026-01-26 092745.png" width="100%" alt="Bài Tập Chương 2">
-# <img src="resource/images/Screenshot 2026-01-26 092711.png" width="100%" alt="Bài Tập Chương 2">
-# <img src="resource/images/Screenshot 2026-01-26 092638.png" width="100%" alt="Bài Tập Chương 2">
-# <img src="resource/images/Screenshot 2026-01-26 092552.png" width="100%" alt="Bài Tập Chương 2">
+# <img src="resource/images/Screenshot 2026-01-26 092745.png" width="100%" alt="Bài Tập Chương 4">
+# <img src="resource/images/Screenshot 2026-01-26 092711.png" width="100%" alt="Bài Tập Chương 4">
+# <img src="resource/images/Screenshot 2026-01-26 092638.png" width="100%" alt="Bài Tập Chương 4">
+# <img src="resource/images/Screenshot 2026-01-26 092552.png" width="100%" alt="Bài Tập Chương 4">
 
 ## Student Analyzer (Phân tích điểm số)
 
